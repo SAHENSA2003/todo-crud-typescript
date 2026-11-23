@@ -1,0 +1,1 @@
+{"version":3,"file":"todoSchema.js","sourceRoot":"","sources":["../../src/model/todoSchema.ts"],"names":[],"mappings":"AAAA,OAAQ,EAAE,KAAK,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAK1C,MAAM,UAAU,GAAG,IAAI,MAAM,CAAQ;IACjC,KAAK,EAAC;QACF,IAAI,EAAC,MAAM;QACX,OAAO,EAAC,IAAI;KACf;CACJ,CAAC,CAAC;AAGH,eAAe,KAAK,CAAC,SAAS,EAAC,UAAU,CAAC,CAAC"}
